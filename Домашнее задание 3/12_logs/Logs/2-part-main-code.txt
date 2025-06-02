@@ -1,0 +1,7 @@
+[32m2025-06-02 08:37:59 +0700[0m - dagster - [34mDEBUG[0m - bio_pipeline - 83b95a11-7c96-440e-8750-3e5323e3cfb6 - 120439 - LOGS_CAPTURED - Started capturing logs in process (pid: 120439).
+[32m2025-06-02 08:37:59 +0700[0m - dagster - [34mDEBUG[0m - bio_pipeline - 83b95a11-7c96-440e-8750-3e5323e3cfb6 - 120439 - run_fastqc - STEP_START - Started execution of step "run_fastqc".
+[32m2025-06-02 08:38:20 +0700[0m - dagster - [34mDEBUG[0m - bio_pipeline - 83b95a11-7c96-440e-8750-3e5323e3cfb6 - 120439 - run_fastqc - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2025-06-02 08:38:20 +0700[0m - dagster - [34mDEBUG[0m - bio_pipeline - 83b95a11-7c96-440e-8750-3e5323e3cfb6 - run_fastqc - Writing file at: /home/mello/bioinformatics/dagster/tmpiu6zt2yx/storage/run_fastqc using PickledObjectFilesystemIOManager...
+[32m2025-06-02 08:38:20 +0700[0m - dagster - [34mDEBUG[0m - bio_pipeline - 83b95a11-7c96-440e-8750-3e5323e3cfb6 - 120439 - run_fastqc - ASSET_MATERIALIZATION - Materialized value run_fastqc.
+[32m2025-06-02 08:38:20 +0700[0m - dagster - [34mDEBUG[0m - bio_pipeline - 83b95a11-7c96-440e-8750-3e5323e3cfb6 - 120439 - run_fastqc - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2025-06-02 08:38:20 +0700[0m - dagster - [34mDEBUG[0m - bio_pipeline - 83b95a11-7c96-440e-8750-3e5323e3cfb6 - 120439 - run_fastqc - STEP_SUCCESS - Finished execution of step "run_fastqc" in 20.47s.
