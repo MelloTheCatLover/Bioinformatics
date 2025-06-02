@@ -1,0 +1,3 @@
+Mapped reads: 2939902
+2915359 / 3131061 (93.89%)
+Mapping quality: OK
